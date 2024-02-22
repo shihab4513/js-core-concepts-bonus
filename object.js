@@ -18,3 +18,5 @@ const Nayok={
     
 }
 Nayok.act();
+console.log(Nayok.name);
+console.log(Nayok.movies[0].name);
